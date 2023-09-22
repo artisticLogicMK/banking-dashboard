@@ -10,8 +10,6 @@ The frontend implementation of a banking dashboard by UI designer, <a href="http
 
 <h3>
 <a href="https://bankingdashboard.netlify.app" target="_blank">View it in action.</a>
-
-<a href="https://mkfrontends.netlify.app/" target="_blank">Check the collection of other UI/UX designs I have brought to life.</a>
 </h3>
 <br>
 

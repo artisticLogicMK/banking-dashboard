@@ -7,7 +7,7 @@ const store = useStore()
 
 <template>
   <nav
-    class="hidden mdb:flex h-screen mdb:h-full w-[30%] max-w-xs min-w-[280px] bg-[#351b5c] select-none"
+    class="hidden mdb:flex h-full w-[30%] max-w-xs min-w-[280px] bg-[#351b5c] select-none"
     :class="{'showMenu': store.navToggle}"
   >
     <div class="flex flex-col w-16 shrink-0 h-full bg-[#402268] py-10">
@@ -65,7 +65,7 @@ const store = useStore()
                     <img src="../../assets/img/safe_lock1.svg" class="w-10">
                     <div>
                         <p class="text-base mb-0.5">$ 780.00</p>
-                        <p class="text-xs opacity-80">Veipa post</p>
+                        <p class="text-xs opacity-80">Spending</p>
                     </div>
                 </div>
 

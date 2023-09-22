@@ -1,9 +1,15 @@
 @import "fonts/phosphor/style.css";
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+html {
+  height: 100%;
+  overflow-y: none;
+  font-family: 'Open Sans', sans-serif;
+}
+body {overflow-y: hidden;}
 
 *{
   transition: all 0.25;
